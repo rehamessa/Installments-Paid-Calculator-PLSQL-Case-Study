@@ -4,3 +4,5 @@ This program is a PL/SQL script that calculates the number and amount of install
 ## Technology Used
 * Oracle Database 
 * PL/SQL Programming Language
+* Procedure
+* Packages
