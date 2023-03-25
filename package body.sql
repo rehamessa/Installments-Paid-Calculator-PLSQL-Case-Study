@@ -1,3 +1,11 @@
+--Creation of  PACKAGE
+CREATE OR REPLACE PACKAGE contracts_pkg AS
+
+  PROCEDURE generate_installments;
+
+END contracts_pkg;
+---Body of  PACKAGE
+
 CREATE OR REPLACE PACKAGE BODY contracts_pkg AS
 
   PROCEDURE generate_installments IS
